@@ -24,7 +24,6 @@ public class atm13
         System.out.print("Enter your chice to perform operation:");
         int choice= sc.nextInt();
 
-        
         if(choice==1)
         {
             viewbalance();
@@ -52,14 +51,12 @@ public class atm13
         }   
         
     }
-
     void viewbalance()
     {
         System.out.println("Your Current Balance is: "+ balance);
         System.out.println();
         options();
     }
-
     void deposit(int amount)
     {
         balance+=amount;
@@ -67,7 +64,6 @@ public class atm13
         System.out.println();
         options();
     }
-
     void withdraw(int amount)
     {
         if(amount>balance)
@@ -82,7 +78,6 @@ public class atm13
         System.out.println();
         options();
     }
-
     void exit()
     {
         System.out.println();
