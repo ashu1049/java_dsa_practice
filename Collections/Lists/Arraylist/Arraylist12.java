@@ -1,6 +1,6 @@
 //Write a program to store 5 strings in an ArrayList<String> and print them using a for-each loop.
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 
 import java.util.List;
 import java.util.ArrayList;

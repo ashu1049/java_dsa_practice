@@ -1,6 +1,6 @@
 //Add elements to an ArrayList, then remove one element by index and one by value. Print the result.
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 

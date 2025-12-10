@@ -1,6 +1,6 @@
 //Remove all even numbers from an ArrayList<Integer>.
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 
 import java.util.List;
 import java.util.ArrayList;

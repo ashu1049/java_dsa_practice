@@ -1,7 +1,7 @@
 //Implement a method that takes an ArrayList<Integer> and returns a new list with only prime numbers.
 
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 
 import java.util.List;
 import java.util.ArrayList;

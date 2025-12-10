@@ -1,6 +1,6 @@
 //Create an ArrayList of integers and find the maximum and minimum values.
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 

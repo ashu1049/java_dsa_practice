@@ -1,6 +1,6 @@
 //Create an ArrayList<Integer> and add numbers 1 to 10. Print them using a for loop.
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 
 import java.util.List;
 import java.util.ArrayList;

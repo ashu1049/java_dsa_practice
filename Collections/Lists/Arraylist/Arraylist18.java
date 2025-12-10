@@ -1,5 +1,5 @@
 //Convert an ArrayList<Integer> into an array (Integer[]).
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 

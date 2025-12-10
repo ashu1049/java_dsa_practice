@@ -1,6 +1,6 @@
 //Reverse an ArrayList<Integer> without using Collections.reverse().
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 

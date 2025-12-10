@@ -1,6 +1,6 @@
 //Check if an ArrayList contains a specific element (e.g., "Java").
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 

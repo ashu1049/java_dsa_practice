@@ -1,6 +1,6 @@
 //Write a program to remove duplicates from an ArrayList<Integer> without using Set
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 public class Arraylist22 {

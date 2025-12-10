@@ -1,6 +1,6 @@
 //ort an ArrayList<String> alphabetically.
 
-package Collections.Lists;
+package Collections.Lists.Arraylist;
 
 import java.util.List;
 import java.util.ArrayList;
