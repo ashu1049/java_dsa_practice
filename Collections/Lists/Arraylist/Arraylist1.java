@@ -1,4 +1,4 @@
-
+package Collections.Lists.Arraylist;
 import java.util.List;
 import java.util.ArrayList;
 
@@ -12,6 +12,8 @@ public class Arraylist1{
         list.add(50);
         list.add(60);
         list.add(70);
+        list.add(80);
+        System.out.println(list);
 
         list.add(1, 55);//TO Add the element at index 1
         list.set(2, 65);//TO Replace the element at index 1
