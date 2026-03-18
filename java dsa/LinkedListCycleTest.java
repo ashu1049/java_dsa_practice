@@ -48,6 +48,6 @@ public class LinkedListCycleTest {
         Solution obj = new Solution();
         boolean result = obj.hasCycle(head);
 
-        System.out.println("Does the linked list have a cycle? " + result);
+        System.out.println(result);
     }
 }
